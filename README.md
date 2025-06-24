@@ -14,7 +14,7 @@ This notebook guides users through:
 ## 📋 Features
 
 - ✅ Addition, subtraction, multiplication, division  
-- ✅ Exponentiation and square root (via `**` and `math.sqrt()`)  
+- ✅ Exponentiation(via `**` )  , Modulus  
 - ✅ Interactive expression input  
 - ✅ Step-by-step usage showcased in notebook format
 
