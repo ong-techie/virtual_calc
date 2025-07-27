@@ -1,9 +1,9 @@
-## 🧮 Virtual Calculator
+# 🧮 Virtual Calculator
 A Python-based interactive virtual calculator that uses computer vision (via MediaPipe and OpenCV) for hand gesture recognition along with a Jupyter notebook interface for expression evaluation.
 
 ---
 
-## 🚀 Overview
+# 🚀 Overview
 This project showcases:
 - Real-time gesture-based virtual calculator using webcam input.
 - Basic arithmetic operations with hand gestures (addition, subtraction, etc.).
@@ -12,7 +12,7 @@ This project showcases:
 
 ---
 
-## 📋 Features
+# 📋 Features
 -  Real-time hand gesture recognition for digits and operations.
 -  Clean and intuitive calculator display.
 -  Addition, subtraction, multiplication, division.
@@ -22,7 +22,7 @@ This project showcases:
 
 ---
 
-## 🛠️ Getting Started
+# 🛠️ Getting Started
  **Clone the repo** <br>
   git clone https://github.com/ong-techie/virtual_calc.git
   cd virtual_calc
@@ -37,23 +37,23 @@ This project showcases:
 *  opencv-python (cv2): 4.11
 
 📦 **Setup Instructions**
-# Create virtual environment
+## Create virtual environment
 python3.11 -m venv venv
 
-# Activate environment
-# For Windows
+## Activate environment
+## For Windows
 venv\Scripts\activate
-# For macOS/Linux
+## For macOS/Linux
 source venv/bin/activate
 
-# Upgrade pip
+## Upgrade pip
 pip install --upgrade pip
 
-# Install dependencies
+## Install dependencies
 pip install mediapipe==0.10.21 opencv-python==4.11
 
    
-## 🧩 Future Enhancements <br>
+# 🧩 Future Enhancements <br>
 -  🔭 Add scientific functions (log, sin, cos, etc.)<br>
 -  🧠 Enhance expression error handling and correction<br>
 -  🎨 UI improvements (rounded buttons, dark mode)<br>
