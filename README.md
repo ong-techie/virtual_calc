@@ -9,12 +9,12 @@ This project showcases:
 * Optional notebook-based interface for step-by-step calculation demonstration.
 
 ## 📋 Features
- ✅ Real-time hand gesture recognition for digits and operations.
- ✅ Clean and intuitive calculator display.
- ✅ Addition, subtraction, multiplication, division.
- ✅ Exponentiation (via ^ or **) and modulus (%).
- ✅ Interactive mouse + gesture support.
- ✅ Equation editing via gestures (delete, clear).
+*  Real-time hand gesture recognition for digits and operations.
+*  Clean and intuitive calculator display.
+*  Addition, subtraction, multiplication, division.
+*  Exponentiation (via ^ or **) and modulus (%).
+*  Interactive mouse + gesture support.
+*  Equation editing via gestures (delete, clear).
 
 
 ## 🛠️ Getting Started
@@ -32,7 +32,8 @@ This project showcases:
 *  opencv-python (cv2): 4.11
 
 📦 Setup Instructions
-*  1. Create and activate virtual environment
+* 1. Create and activate virtual environment
+---
   python3.11 -m venv venv
 *  For Windows
   venv\Scripts\activate
