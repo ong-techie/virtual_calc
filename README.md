@@ -23,33 +23,30 @@ This project showcases:
 ---
 
 # 🛠️ Getting Started
- **Clone the repo** <br>
+## Clone the repo <br>
   git clone https://github.com/ong-techie/virtual_calc.git
   cd virtual_calc
   
-🛠️ **Install Dependencies** <br>
+## 🛠️ Install Dependencies
   It is strongly recommended to use a virtual environment to isolate dependencies and avoid version conflicts.
 
-✅ **Recommended Setup**
+## ✅ Recommended Setup
 *  Python Version: 3.11.9
 *  (Note: Python 3.12+ is not supported by mediapipe as of now)
 *  mediapipe: 0.10.21
 *  opencv-python (cv2): 4.11
 
-📦 **Setup Instructions**
-## Create virtual environment
+## 📦 Setup Instructions
+### Create virtual environment
 python3.11 -m venv venv
 
-## Activate environment
-## For Windows
+### Activate environment
+### For Windows
 venv\Scripts\activate
-## For macOS/Linux
+### For macOS/Linux
 source venv/bin/activate
 
-## Upgrade pip
-pip install --upgrade pip
-
-## Install dependencies
+### Install dependencies
 pip install mediapipe==0.10.21 opencv-python==4.11
 
    
