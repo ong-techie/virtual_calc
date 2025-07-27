@@ -9,13 +9,12 @@ This project showcases:
 * Optional notebook-based interface for step-by-step calculation demonstration.
 
 ## 📋 Features
-* ✅ Real-time hand gesture recognition for digits and operations.
-* ✅ Clean and intuitive calculator display.
-* ✅ Addition, subtraction, multiplication, division.
-* ✅ Exponentiation (via ^ or **) and modulus (%).
-* ✅ Interactive mouse + gesture support.
-* ✅ Error feedback on invalid expressions (e.g., division by zero).
-* ✅ Equation editing via gestures (delete, clear).
+ ✅ Real-time hand gesture recognition for digits and operations.
+ ✅ Clean and intuitive calculator display.
+ ✅ Addition, subtraction, multiplication, division.
+ ✅ Exponentiation (via ^ or **) and modulus (%).
+ ✅ Interactive mouse + gesture support.
+ ✅ Equation editing via gestures (delete, clear).
 
 
 ## 🛠️ Getting Started
@@ -34,18 +33,18 @@ This project showcases:
 
 📦 Setup Instructions
 *  1. Create and activate virtual environment
-*  python3.11 -m venv venv
-*  # For Windows
-*  venv\Scripts\activate
-*  # For macOS/Linux
-*  source venv/bin/activate
+  python3.11 -m venv venv
+*  For Windows
+  venv\Scripts\activate
+*  For macOS/Linux
+  source venv/bin/activate
 *  2. Upgrade pip
-*  pip install --upgrade pip
+  pip install --upgrade pip
 *  3. Install dependencies
-*  pip install mediapipe==0.10.21 opencv-python==4.11
+  pip install mediapipe==0.10.21 opencv-python==4.11
    
 🧩 Future Enhancements
-*  🔭 Add scientific functions (log, sin, cos, etc.)
-*  🧠 Enhance expression error handling and correction
-*  🎨 UI improvements (rounded buttons, dark mode)
-*  👋 Add support for multi-hand input or gestures for functions like square root
+  🔭 Add scientific functions (log, sin, cos, etc.)
+  🧠 Enhance expression error handling and correction
+  🎨 UI improvements (rounded buttons, dark mode)
+  👋 Add support for multi-hand input or gestures for functions like square root
