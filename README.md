@@ -1,29 +1,25 @@
-# Virtual Calculator 🧮
+## 🧮 Virtual Calculator
+A Python-based interactive virtual calculator that uses computer vision (via MediaPipe and OpenCV) for hand gesture recognition along with a Jupyter notebook interface for expression evaluation.
 
-A Python-based interactive calculator in a Jupyter notebook (`.ipynb`), featuring basic and extended mathematical operations with a clean, cell-by-cell interface.
-
-## 🚀 Project Overview
-
-This notebook guides users through:
-
-- Basic arithmetic operations (addition, subtraction, multiplication, division, modulus)
-- Extended functions such as exponentiation, square root, and possibly more  
-- Handling and evaluating expressions interactively within Jupyter cells
-- Clean demonstration using Markdown and code cells
+## 🚀 Overview
+This project showcases:
+Real-time gesture-based virtual calculator using webcam input.
+Basic arithmetic operations with hand gestures (addition, subtraction, etc.).
+Extended mathematical functionality like exponentiation, modulus, square root.
+Optional notebook-based interface for step-by-step calculation demonstration.
 
 ## 📋 Features
+✅ Real-time hand gesture recognition for digits and operations.
+✅ Clean and intuitive calculator display.
+✅ Addition, subtraction, multiplication, division.
+✅ Exponentiation (via ^ or **) and modulus (%).
+✅ Interactive mouse + gesture support.
+✅ Error feedback on invalid expressions (e.g., division by zero).
+✅ Equation editing via gestures (delete, clear).
 
-- ✅ Addition, subtraction, multiplication, division  
-- ✅ Exponentiation(via `**` )  , Modulus  
-- ✅ Interactive expression input  
-- ✅ Step-by-step usage showcased in notebook format
-
-*(Optional: Note any additional functions you’ve added—e.g., `%`, trig, factorals, keyboard support.)*
 
 ## 🛠️ Getting Started
-
  **Clone the repo**
-   
    git clone https://github.com/ong-techie/virtual_calc.git
    cd virtual_calc
   
@@ -52,5 +48,6 @@ This notebook guides users through:
    
 🧩 Future Enhancements
   🔭 Add scientific functions (log, sin, cos, etc.)
-  🧠 Include error handling (invalid input, division by zero)
-  🎨 Improve interface with widgets (e.g., ipywidgets)
+  🧠 Enhance expression error handling and correction
+  🎨 UI improvements (rounded buttons, dark mode)
+  👋 Add support for multi-hand input or gestures for functions like square root
