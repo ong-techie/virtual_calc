@@ -19,21 +19,20 @@ This project showcases:
 
 ## 🛠️ Getting Started
  **Clone the repo** <br>
-   git clone https://github.com/ong-techie/virtual_calc.git
-   cd virtual_calc
+  git clone https://github.com/ong-techie/virtual_calc.git
+  cd virtual_calc
   
-🛠️ Install Dependencies
+🛠️ **Install Dependencies** <br>
   It is strongly recommended to use a virtual environment to isolate dependencies and avoid version conflicts.
 
-✅ Recommended Setup
+✅ **Recommended Setup**
 *  Python Version: 3.11.9
 *  (Note: Python 3.12+ is not supported by mediapipe as of now)
 *  mediapipe: 0.10.21
 *  opencv-python (cv2): 4.11
 
-📦 Setup Instructions
+📦 **Setup Instructions**
 * 1. Create and activate virtual environment
----
   python3.11 -m venv venv
 *  For Windows
   venv\Scripts\activate
@@ -44,8 +43,8 @@ This project showcases:
 *  3. Install dependencies
   pip install mediapipe==0.10.21 opencv-python==4.11
    
-🧩 Future Enhancements
-  🔭 Add scientific functions (log, sin, cos, etc.)
-  🧠 Enhance expression error handling and correction
-  🎨 UI improvements (rounded buttons, dark mode)
-  👋 Add support for multi-hand input or gestures for functions like square root
+🧩 Future Enhancements <br>
+  🔭 Add scientific functions (log, sin, cos, etc.)<br>
+  🧠 Enhance expression error handling and correction<br>
+  🎨 UI improvements (rounded buttons, dark mode)<br>
+  👋 Add support for multi-hand input or gestures for functions like square root<br>
