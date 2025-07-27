@@ -18,7 +18,7 @@ This project showcases:
 
 
 ## 🛠️ Getting Started
- **Clone the repo**
+ **Clone the repo** <br>
    git clone https://github.com/ong-techie/virtual_calc.git
    cd virtual_calc
   
