@@ -53,7 +53,7 @@ pip install --upgrade pip
 pip install mediapipe==0.10.21 opencv-python==4.11
 
    
-🧩 Future Enhancements <br>
+## 🧩 Future Enhancements <br>
 -  🔭 Add scientific functions (log, sin, cos, etc.)<br>
 -  🧠 Enhance expression error handling and correction<br>
 -  🎨 UI improvements (rounded buttons, dark mode)<br>
